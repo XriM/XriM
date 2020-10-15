@@ -69,15 +69,12 @@
 
 ---
 
-<details>
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 💪 Not yet [#259]() in [florinpop17/app-ideas]()
 
 <!--END_SECTION:activity-->
-
-</details>
 
 
 <summary>:zap: GitHub Stats</summary>
@@ -87,9 +84,9 @@
 [website]:
 [course]:
 [twitter]:
-[youtube]:
+[youtube]: https://youtube.com
 [instagram]:
-[linkedin]:
+[linkedin]: htps://linkedin.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
